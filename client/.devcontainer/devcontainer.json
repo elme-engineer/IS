@@ -1,0 +1,17 @@
+{
+	"name": "client:maven-java",
+	"dockerFile": "Dockerfile",
+	"workspaceFolder": "/workspace",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"dotjoshjohnson.xml",
+				"vscjava.vscode-maven",
+				"vscjava.vscode-java-pack",
+				"redhat.fabric8-analytics",
+				"mhutchie.git-graph",
+				"ms-azuretools.vscode-docker"
+			]
+		}
+	}
+}
