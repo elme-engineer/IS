@@ -1,6 +1,6 @@
-#IS Project 2024/2025
+# IS Project 2024/2025
 
-##TODO LIST:
+## TODO LIST:
 -
 -
 -
